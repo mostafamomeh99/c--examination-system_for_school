@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\c#\\examination system\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\c#\\examination system\\consoleapp1\\consoleapp1\\exaninationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\exaninationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\c#\\examination system\\consoleapp1\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\c#\\examination system\\consoleapp1\\consoleapp1\\choose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\choose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\c#\\examination system\\consoleapp1\\consoleapp1\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D3A72F-EFBA-4E8C-B423-D0E3F56E623B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Choose.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Choose.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Choose.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Choose.cs",
+              "RelativeToolTip": "ConsoleApp1\\Choose.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:48:46.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:42:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Exam.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Exam.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Exam.cs",
+              "RelativeToolTip": "ConsoleApp1\\Exam.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:25:44.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exaninationsystem.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Exaninationsystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Exaninationsystem.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Exaninationsystem.cs",
+              "RelativeToolTip": "ConsoleApp1\\Exaninationsystem.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:46:56.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\C#\\Examination system\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAF0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:23:13.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
